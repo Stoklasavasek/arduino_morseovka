@@ -4,8 +4,8 @@ int led_pin = 2;
 
 int dot_lenght = 150;    // .
 int dash_length = 300;   // -
-int pause_lenght = 50;   // .(pauza)-
-int letter_pause = 400;  // .- [pauza] -.- 
+int pause_lenght = 50;   // .(udela pauza)-
+int letter_pause = 400;  // .- (udela pauzu) -.- 
 int space_delay = 800;   // slovo [pauza] [slovo]
 
 int morse_codes[26][4] = {
