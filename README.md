@@ -9,10 +9,6 @@ Tento projekt převádí písmena na Morseovu abecedu pomocí LED diody.
 ## Použití
 
 1. Otevřete sériový monitor v Arduino IDE.
-2. Nastavte rychlost na 9600 baudů.
-3. Zadejte písmeno (A-Z) nebo mezeru.
-4. LED dioda bliká v morseovém kódu.
+2. Zadejte písmeno (A-Z) nebo mezeru.
+3. LED dioda bliká v morseovém kódu.
 
-## Licencování
-
-Projekt je otevřený a můžete ho používat a upravovat podle potřeby.
